@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weigang He's Homepage"
+title                    : "Weigang's Homepage"
 title_separator          : "-"
 name                     : &name "Weigang He"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Weigang He (何为刚)"
-  avatar           : #"website.png"
+  avatar           : "IMG_1274.jpeg"
   bio              : "PhD Candidate at UTS, interested in fuzzing, compiler testing, and program analysis"
   location         : "China" #"Dalian, China"
   employer         :

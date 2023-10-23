@@ -23,13 +23,13 @@ redirect_from:
 * <[On Impact in Software Engineering Research](https://haoxintu.github.io/files/impact_se_Andreas_Zeller.pdf)> by [Andreas Zeller](https://andreas-zeller.info/)
 * <[The Three Golden Rules for Successful Scientific Research](http://www.cs.utexas.edu/~EWD/ewd06xx/EWD637.PDF)> by [Edsger W. Dijkstra](http://www.cs.utexas.edu/~EWD/)
 
-### Masterpiece Papers
+<!-- ### Masterpiece Papers
 * [ACM SIGSOFT Impact Paper Award](https://www.sigsoft.org/awards/impactPaperAward.html)
 * [ICSE MOST INFLUENTIAL PAPER AWARD](http://www.icse-conferences.org/mostinfluential.html)
 * [USENIX-Best Papers(including USENIX Security, USENIX ATC, SOUPS, FAST, OSDI)](https://www.usenix.org/conferences/best-papers)
 * [ACM CCS The Best Paper Awards](https://www.sigsac.org/ccs/CCS_awards/ccs-bestpaper.html)
 * [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
-
+ -->
 
 
 ### Others

@@ -11,16 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, at Singapore Management University, 2020.8 -
-* Ph.D in Software Engineering, at Dalian University of Technology, 2019.9 -
-* M.S. in Software Engineering, at Dalian University of Technology, 2017.9 - 2019.6.
-* B.S. in Electronic Information Engineering, at Northeast Forestry University, 2013.9 - 2017.6.
+* Ph.D in Software Engineering, at University of Technology Sydney University, 2023.7 -
+* M.S. in Software Engineering, at East China Nornal University, 2018.9 - 2021.12
+* B.S. in Biology Science, at Nanchang University, 2013.9 - 2017.6
 
 Work experience
 ======
-* Summer 2018: Software Development Engineer
-  * Huawei Technologies Co., Ltd
-  * Duties included: Android JNI developing
+* Mar.2022 – Aug.2023: Research Assistant
+  * East China Nornal University
+
+* Apr.2022 – Aug.2023: Visiting Scholar
+  * Ant Group, Hanzhou, China
+  * Testing Static Analysis Tools
 
 <!--  
 Skills
