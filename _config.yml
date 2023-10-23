@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haoxin Tu's Homepage"
+title                    : "Weigang He's Homepage"
 title_separator          : "-"
-name                     : &name "Haoxin Tu"
+name                     : &name "Weigang He"
 description              : &description "personal description"
-url                      : https://haoxintu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://geoffrey1014.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "haoxintu/haoxintu.github.io" # changed to false "haoxintu/haoxintu.github.io"
+repository               : "geoffrey1014/geoffrey1014.github.io" # changed to false "haoxintu/haoxintu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -23,7 +23,7 @@ talkmap_link             : false #change to true to add link to talkmap on talks
 comments:
   provider               :  "disqus"# false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :  "haoxintu"
+    shortname            :  "weigang"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haoxin Tu (涂浩新)"
-  avatar           : "website.png"
-  bio              : "Dual-degree PhD Candidate at DUT & SMU, interested in fuzzing, compiler testing, and program analysis"
-  location         : "SMU, Singapore" #"Dalian, China"
+  name             : "Weigang He (何为刚)"
+  avatar           : #"website.png"
+  bio              : "PhD Candidate at UTS, interested in fuzzing, compiler testing, and program analysis"
+  location         : "China" #"Dalian, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Yn0cB0UAAAAJ&hl=en"
-  email            : "haoxintu@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=W2bfXq0AAAAJ&hl=zh-CN"
+  email            : "geoffreyhe2@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "tuhaoxin"
+  facebook         : #"tuhaoxin"
   foursquare       :
-  github           : "hanseltu"
+  github           : "geoffrey1014"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "https://www.linkedin.com/in/hanseltu/"
-  orcid            : "https://orcid.org/0000-0003-2389-1881"
+  linkedin         : # "https://www.linkedin.com/in/hanseltu/"
+  orcid            : "https://orcid.org/0009-0002-2086-7034"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "tuhaoxin"
+  twitter          : #"tuhaoxin"
   vine             :
   weibo            :
   xing             :
