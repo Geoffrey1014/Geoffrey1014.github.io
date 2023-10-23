@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 'Notes of QE Reading List Papers'
 date: 2021-06-09
 permalink: /posts/2021/06/qe-reading-list-notes/
@@ -9,19 +9,19 @@ location: "Singapore"
 ---
 
 
-This page records the summary and my own understanding of each paper in PhD reading list for QE.
+This page records the summary and my own understanding of each paper in PhD reading list for QE. -->
 
 <!-- TOC -->
-- [1. A Unified Approach to Global Program Optimization (POPL 1973)](#1-a-unified-approach-to-global-program-optimization-pdf)
-- [2. The Program Dependence Graph and Its Use in Optimization (TOPLAS 1987)](#2-the-program-dependence-graph-and-its-use-in-optimization-pdf)
-- [3. Yesterday, my program worked. Today, it does not. Why? (ESEC/FSE 1999)](#3-yesterday-my-program-worked-today-it-does-not-why-pdf)
-- [4. Dynamically discovering likely program invariants to support program evolution (ICSE 1999)](#4-dynamically-discovering-likely-program-invariants-to-support-program-evolution-pdf)
-- [5. Bandera: extracting finite-state models from Java source code (ICSE 2000)](#5-bandera-extracting-finite-state-models-from-java-source-code-pdf)
-- [6. CUTE: a concolic unit testing engine for C (ESEC/FSE 2005)](#6-cute-a-concolic-unit-testing-engine-for-c-pdf)
-- [7. code2vec: Learning Distributed Representations of Code (POPL 2019)](#7-code2vec-learning-distributed-representations-of-code-pdf)
-- [8. Empirical Evaluation of the Tarantula Automatic Fault-Localization Technique (ASE 2005)](#8-empirical-evaluation-of-the-tarantula-automatic-fault-localization-technique-pdf)
-- [9. Bugs as deviant behavior: a general approach to inferring errors in systems code (SOSP 2001)](#9-bugs-as-deviant-behavior-a-general-approach-to-inferring-errors-in-systems-code-pdf)
-- [10. Mining specifications (POPL 2002)](#10-mining-specifications-pdf)
+- [1. A Unified Approach to Global Program Optimization \[PDF\]](#1-a-unified-approach-to-global-program-optimization-pdf)
+- [2. The Program Dependence Graph and Its Use in Optimization \[PDF\]](#2-the-program-dependence-graph-and-its-use-in-optimization-pdf)
+- [3. Yesterday, my program worked. Today, it does not. Why? \[PDF\]](#3-yesterday-my-program-worked-today-it-does-not-why-pdf)
+- [4. Dynamically discovering likely program invariants to support program evolution \[PDF\]](#4-dynamically-discovering-likely-program-invariants-to-support-program-evolution-pdf)
+- [5. Bandera: extracting finite-state models from Java source code \[PDF\]](#5-bandera-extracting-finite-state-models-from-java-source-code-pdf)
+- [6. CUTE: a concolic unit testing engine for C \[PDF\]](#6-cute-a-concolic-unit-testing-engine-for-c-pdf)
+- [7. code2vec: Learning Distributed Representations of Code \[PDF\]](#7-code2vec-learning-distributed-representations-of-code-pdf)
+- [8. Empirical Evaluation of the Tarantula Automatic Fault-Localization Technique \[PDF\]](#8-empirical-evaluation-of-the-tarantula-automatic-fault-localization-technique-pdf)
+- [9. Bugs as deviant behavior: a general approach to inferring errors in systems code \[PDF\]](#9-bugs-as-deviant-behavior-a-general-approach-to-inferring-errors-in-systems-code-pdf)
+- [10. Mining specifications \[PDF\]](#10-mining-specifications-pdf)
 
 ### 1. A Unified Approach to Global Program Optimization [[PDF]](https://haoxintu.github.io/files/1-A%20Unified%20Approach%20to%20Global%20Program%20Optimization.pdf)
 
