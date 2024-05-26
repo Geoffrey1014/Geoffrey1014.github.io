@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 ### Conference
+1. [Finding and Understanding Defects in Static Analyzers by Constructing Automated Oracles.](https://tingsu.github.io/files/fse24-sa-find-bugs.pdf)  <br>
+**Weigang He**, Peng Di, Mengli Ming, Chengyu Zhang, Ting Su*, Shijie Li, Yulei Sui  <br>
+ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE), 2024.
 
 1. [Automata-based Trace Analysis for Aiding Diagnosing GUI Testing Tools for Android.](https://tingsu.github.io/files/fse23-DDroid.pdf)  <br>
 Enze Ma, Shan Huang, **Weigang He**, Ting Su*, Jue Wang, Huiyu Liu, Geguang Pu, Zhendong Su  <br>

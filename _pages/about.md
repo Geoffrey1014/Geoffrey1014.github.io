@@ -15,7 +15,7 @@ I was a Research Assistant (Mentor: [Ting Su](https://tingsu.github.io/)) of Eas
 <p align="right"> - Paul R. Ehrlich </p> -->
 
 My research interests are in: 
-- Mobile App Analysis and Testing (GUI Fuzzing) 
+- Large Language Models of Code
 - Fuzzing Compilers/Program Analyzers
 
 <!-- ### Research Programs
@@ -35,24 +35,25 @@ Implementation of a tool to automatically translate airborne Simulink models to 
 #### Formal Analysis and Verification of Airborne Software Based on DO-333. (Nov.2018 – May.2019)
 Utilizing the Air Data Computer software as the research object and applying different formal methods to verify software life-cycle artifacts to illustrate the formal methods and tools available in the verification process of airborne software. -->
 
-### Languages
-- Chinese <strong>Native</strong>
-- English <strong>Proficient IELTS (Academic) Score: 7.0</strong>
 
 ### Publications
+1. [Finding and Understanding Defects in Static Analyzers by Constructing Automated Oracles.](https://tingsu.github.io/files/fse24-sa-find-bugs.pdf)  <br>
+**Weigang He**, Peng Di, Mengli Ming, Chengyu Zhang, Ting Su*, Shijie Li, Yulei Sui  <br>
+ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE), 2024.
+
 1. [Automata-based Trace Analysis for Aiding Diagnosing GUI Testing Tools for Android.](https://tingsu.github.io/files/fse23-DDroid.pdf)  <br>
 Enze Ma, Shan Huang, **Weigang He**, Ting Su*, Jue Wang, Huiyu Liu, Geguang Pu, Zhendong Su  <br>
 ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE), 2023.
 
-2. [Data flow testing for PLC programs via dynamic symbolic execution.](https://ieeexplore.ieee.org/document/9712019)  <br>
+1. [Data flow testing for PLC programs via dynamic symbolic execution.](https://ieeexplore.ieee.org/document/9712019)  <br>
 **Weigang He**, Xia Mao, Ting Su, Yanhong Huang, and Jianqi Shi. <br>
 28th Asia-Pacific Software Engin eering Conference, APSEC 2021, Taipei, Taiwan, December 6-9, 2021, pages 152–160. IEEE, 2021.
 
-3. [Automated test generation for iec 61131-3 st programs via dynamic symbolic execution.](https://www.sciencedirect.com/science/article/pii/S0167642321000010)<br>
+1. [Automated test generation for iec 61131-3 st programs via dynamic symbolic execution.](https://www.sciencedirect.com/science/article/pii/S0167642321000010)<br>
    **Weigang He**, Jianqi Shi, Ting Su, Zeyu Lu, Li Hao, and Yanhong Huang. <br>
    Science of Computer Programming, 206:102608, 2021.
 
-4. [Safety verification of iec 61131-3 structured text programs.](https://ieeexplore.ieee.org/document/9107345) <br>
+2. [Safety verification of iec 61131-3 structured text programs.](https://ieeexplore.ieee.org/document/9107345) <br>
    Jiawen Xiong, Xiangxing Bu, Yanhong Huang, Jianqi Shi, and **Weigang He**. <br>
    IEEE Transactions on Industrial Informatics, 17(4):2632–2640, 2020.
 
