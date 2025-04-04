@@ -28,6 +28,8 @@ ACM Joint European Software Engineering Conference and Symposium on the Foundati
 
 
 ### Journal
+1. [Automated Aliasing Specifications Generation for Library APIs with Fuzzing. ACM Transactions on Software Engineering and Methodology.]()<br>Shuangxiang Kan, Yuekang Li, **Weigang He**, Zhenchang Xing, Liming Zhu, Yulei Sui.<br> Automated Aliasing Specifications Generation for Library APIs with Fuzzing. ACM Transactions on Software Engineering and Methodology (TOSEM).
+   
 1. [Safety verification of iec 61131-3 structured text programs.](https://ieeexplore.ieee.org/document/9107345) <br>
 Jiawen Xiong, Xiangxing Bu, Yanhong Huang, Jianqi Shi, and **Weigang He**. <br>
 ßIEEE Transactions on Industrial Informatics, 17(4):2632–2640, 2020.
