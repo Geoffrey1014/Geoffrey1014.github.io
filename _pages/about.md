@@ -58,7 +58,7 @@ ACM Joint European Software Engineering Conference and Symposium on the Foundati
    IEEE Transactions on Industrial Informatics, 17(4):2632–2640, 2020.
 
 
-<p align="right"> [Last updated on October 2023] </p>
+<p align="right"> [Last updated on April 2025] </p>
 
 
 
