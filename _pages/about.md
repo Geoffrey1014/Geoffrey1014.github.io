@@ -37,7 +37,9 @@ Utilizing the Air Data Computer software as the research object and applying dif
 
 
 ### Publications
-1. [Finding and Understanding Defects in Static Analyzers by Constructing Automated Oracles.](https://tingsu.github.io/files/fse24-sa-find-bugs.pdf)  <br>
+1. [Automated Aliasing Specifications Generation for Library APIs with Fuzzing. ACM Transactions on Software Engineering and Methodology.]()<br>Shuangxiang Kan, Yuekang Li, **Weigang He**, Zhenchang Xing, Liming Zhu, Yulei Sui.<br> Automated Aliasing Specifications Generation for Library APIs with Fuzzing. ACM Transactions on Software Engineering and Methodology (TOSEM).
+   
+2. [Finding and Understanding Defects in Static Analyzers by Constructing Automated Oracles.](https://tingsu.github.io/files/fse24-sa-find-bugs.pdf)  <br>
 **Weigang He**, Peng Di, Mengli Ming, Chengyu Zhang, Ting Su*, Shijie Li, Yulei Sui  <br>
 ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE), 2024.
 
