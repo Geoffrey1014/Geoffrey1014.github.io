@@ -65,9 +65,9 @@ I serve as a reviewer for IEEE Transactions on Software Engineering (TSE), ACM T
 
 ### Teaching Experience
 Tutor, [41128 Software Analysis Studio](https://coursehandbook.uts.edu.au/subject/2026/41128), UTS, 2024-2025.
-Tutor and lab demonstrator, [41184 Secure Programming and Penetration Testing]{https://coursehandbook.uts.edu.au/subject/2025/41184?year=2025}, UTS, 2025
+Tutor and lab demonstrator, [41184 Secure Programming and Penetration Testing](https://coursehandbook.uts.edu.au/subject/2025/41184?year=2025), UTS, 2025
 
-<p align="right"> [Last updated on April 2025] </p>
+<p align="right"> [Last updated on Jan 2026] </p>
 
 
 
