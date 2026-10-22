@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Weigang He (何为刚)"
+  name             : "Weigang He"
   avatar           : "IMG_6462.JPG"
   bio              : "PhD Candidate at UTS. Fuzzing, software testing, static analysis, and AI safety."
   location         :
