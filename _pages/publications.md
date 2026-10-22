@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 ### Conference
+1. Seed Patches to CodeQL Queries: Compositional Synthesis with Proof-of-Concept Validation. <br>
+**Weigang He**, Xiao Cheng, Shuangxiang Kan, Wei Li, Xingrui Yu, Ivor Tsang, Yulei Sui <br>
+IEEE/ACM International Conference on Software Engineering (ICSE), 2027. *To appear.*
+
 1. [Finding and Understanding Defects in Static Analyzers by Constructing Automated Oracles.](https://tingsu.github.io/files/fse24-sa-find-bugs.pdf)  <br>
 **Weigang He**, Peng Di, Mengli Ming, Chengyu Zhang, Ting Su*, Shijie Li, Yulei Sui  <br>
 ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE), 2024.
@@ -15,7 +19,7 @@ ACM Joint European Software Engineering Conference and Symposium on the Foundati
 
 2. [Data flow testing for PLC programs via dynamic symbolic execution.](https://ieeexplore.ieee.org/document/9712019)  <br>
 **Weigang He**, Xia Mao, Ting Su, Yanhong Huang, and Jianqi Shi. <br>
-28th Asia-Pacific Software Engin eering Conference, APSEC 2021, Taipei, Taiwan, December 6-9, 2021, pages 152–160. IEEE, 2021.
+28th Asia-Pacific Software Engineering Conference, APSEC 2021, Taipei, Taiwan, December 6-9, 2021, pages 152–160. IEEE, 2021.
 
 3. [Automated test generation for iec 61131-3 st programs via dynamic symbolic execution.](https://www.sciencedirect.com/science/article/pii/S0167642321000010)<br>
    **Weigang He**, Jianqi Shi, Ting Su, Zeyu Lu, Li Hao, and Yanhong Huang. <br>
@@ -28,13 +32,20 @@ ACM Joint European Software Engineering Conference and Symposium on the Foundati
 
 
 ### Journal
-1. [Automated Aliasing Specifications Generation for Library APIs with Fuzzing. ACM Transactions on Software Engineering and Methodology.]()<br>Shuangxiang Kan, Yuekang Li, **Weigang He**, Zhenchang Xing, Liming Zhu, Yulei Sui.<br> Automated Aliasing Specifications Generation for Library APIs with Fuzzing. ACM Transactions on Software Engineering and Methodology (TOSEM).
+1. [Spectre: Automated Aliasing Specification Generation for Library APIs with Fuzzing.](https://doi.org/10.1145/3725811) <br>
+Shuangxiang Kan, Yuekang Li, **Weigang He**, Zhenchang Xing, Liming Zhu, Yulei Sui. <br>
+ACM Transactions on Software Engineering and Methodology (TOSEM), 2025.
    
 1. [Safety verification of iec 61131-3 structured text programs.](https://ieeexplore.ieee.org/document/9107345) <br>
 Jiawen Xiong, Xiangxing Bu, Yanhong Huang, Jianqi Shi, and **Weigang He**. <br>
-ßIEEE Transactions on Industrial Informatics, 17(4):2632–2640, 2020.
+IEEE Transactions on Industrial Informatics, 17(4):2632–2640, 2020.
 
  <!-- * [TR 2022] **Haoxin Tu**, He Jiang, Zhide Zhou, Yixuan Tang, Zhilei Ren, Lei Qiao, and Lingxiao Jiang, "Detecting C++ Compiler Front-end Bugs via Grammar Mutation and Differential Testing", in *IEEE Transactions on Reliability*, 2022. [[IEEE Early Access]](https://ieeexplore.ieee.org/document/9777893) [[Authors' Draft]](https://haoxintu.github.io/files/tr-2022-draft.pdf) [[Bug Reports]](https://github.com/haoxintu/CCOFT/blob/main/reported-bugs.md) -->
+
+### Workshop
+1. QLM: CodeQL Query Synthesis with Compositional PoC Validation. <br>
+**Weigang He**, Xiao Cheng, Shuangxiang Kan, Wei Li, Xingrui Yu, Ivor Tsang, Yulei Sui <br>
+Journal Ahead Workshop (JAWs), co-located with ICSE 2026. *Presentation; an earlier version of the ICSE'27 paper.*
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

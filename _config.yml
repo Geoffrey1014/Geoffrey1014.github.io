@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Weigang He (何为刚)"
   avatar           : "IMG_6462.JPG"
-  bio              : "PhD Candidate at UTS, interested in fuzzing, program analysis, and LLM."
-  location         : "China" #"Dalian, China"
+  bio              : "PhD Candidate at UTS. Fuzzing, software testing, static analysis, and AI safety."
+  location         :
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=W2bfXq0AAAAJ&hl=zh-CN"
