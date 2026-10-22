@@ -32,6 +32,17 @@ redirect_from:
  -->
 
 
+### AI Research Labs
+* [Anthropic Research](https://www.anthropic.com/research) · [Alignment Science Blog](https://alignment.anthropic.com/) · [Transformer Circuits (Interpretability)](https://transformer-circuits.pub/)
+* [OpenAI Research](https://openai.com/research/index/) · [OpenAI Alignment](https://alignment.openai.com/)
+* [Google DeepMind Research](https://deepmind.google/research/) · [Google Research](https://research.google/)
+* [Meta AI Research (FAIR)](https://ai.meta.com/research/)
+* [Microsoft Research](https://www.microsoft.com/en-us/research/)
+* [NVIDIA Research](https://www.nvidia.com/en-us/research/)
+* [Apple Machine Learning Research](https://machinelearning.apple.com/)
+* [Amazon Science](https://www.amazon.science/)
+* [Qwen Blog](https://qwenlm.github.io/blog/) · [DeepSeek (GitHub)](https://github.com/deepseek-ai)
+
 ### Others
 * [CCF SE/PL/System/Security Conference Deadlines](https://ccfddl.github.io/)
 
