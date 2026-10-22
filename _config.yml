@@ -13,7 +13,7 @@ name                     : &name "Weigang He"
 description              : &description "personal description"
 url                      : https://geoffrey1014.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "geoffrey1014/geoffrey1014.github.io" # changed to false "haoxintu/haoxintu.github.io"
+repository               : "geoffrey1014/geoffrey1014.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : #"tuhaoxin"
+  facebook         :
   foursquare       :
   github           : "geoffrey1014"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # "https://www.linkedin.com/in/hanseltu/"
+  linkedin         :
   orcid            : "https://orcid.org/0009-0002-2086-7034"
   pinterest        :
   soundcloud       :
