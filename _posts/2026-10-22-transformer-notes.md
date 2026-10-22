@@ -8,7 +8,7 @@ tags:
   - llm
 ---
 
-这是一份以 **Gemma 2 27B** 为解剖对象的 Transformer 技术笔记。每个结论都尽量落到这个模型的真实参数上，能算出来的数字都算出来。
+这是一份以 **Gemma 2 27B** 为解剖对象的 Transformer 技术笔记。
 
 **[阅读全文 →](/notes/transformer/)**
 
